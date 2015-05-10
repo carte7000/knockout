@@ -117,4 +117,4 @@ Now your binding in UI elements becomes a method call, e.g.:
 
     The name is <span data-bind="text: fullName()"></span>
 
-Knockout will create a computed obserable internally in order to detect what obserables the expression depends on, and will automatically dispose it when the associated element is later removed.
+Knockout will create a computed obserable internally in order to detect what observables the expression depends on, and will automatically dispose it when the associated element is later removed.
